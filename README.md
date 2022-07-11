@@ -1,5 +1,4 @@
 ### <span style="color:red;">Hello,welcome to my world!</span>
-[![RuanXuSong's github stats](https://github-readme-stats.vercel.app/api?username=RuanXuSong)](https://github.com/RuanXuSong/github-readme-stats)
 
 技术为主，快捷指令，有用小工具，网站，画画，摄影为辅，不定期在抖音上分享一些指令教程，做个终身学习者。
 
